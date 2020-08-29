@@ -1,6 +1,6 @@
 cb
 bb
-z
+zc
 z
 a
 a
